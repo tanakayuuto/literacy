@@ -1,1 +1,9 @@
 em{color:green;}
+
+th{
+  color: white;background:orenge;
+}
+th,td{
+  border:1px solid black;
+}
+table{border"collapse:collaps;}
